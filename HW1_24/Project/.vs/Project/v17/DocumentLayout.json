@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Microsoft Visual Studio\\c_code\\HW1_24\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5FC2D4-8937-40D2-8831-8B0FF57C6D05}|Project\\Project.vcxproj|E:\\Microsoft Visual Studio\\c_code\\HW1_24\\source\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.c",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\c_code\\HW1_24\\source\\Main.c",
+              "RelativeDocumentMoniker": "..\\source\\Main.c",
+              "ToolTip": "E:\\Microsoft Visual Studio\\c_code\\HW1_24\\source\\Main.c",
+              "RelativeToolTip": "..\\source\\Main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-30T05:26:43.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
